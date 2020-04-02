@@ -1,5 +1,5 @@
 # Python-LiveYoutube-Course-Codes
-In this repo, I shared the python source codes which I used to took classes in live youtube stream. 
+In this repo, I shared the python source codes which I used to take classes in live youtube stream. 
 
 watch it in below youtube links
 
